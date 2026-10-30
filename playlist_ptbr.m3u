@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="Filmes",Filmelier TV
+https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
+#EXTINF:-1 group-title="Filmes",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:-1 group-title="Filmes",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:-1 group-title="Séries",A Feiticeira
+https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
+#EXTINF:-1 group-title="Séries",Blue Bloods
+https://jmp2.uk/plu-69fcc8cfb83300b380051794.m3u8
+#EXTINF:-1 group-title="Séries",CSI Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:-1 group-title="Infantil",Baby Shark TV
+https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
+#EXTINF:-1 group-title="Infantil",Bob Esponja
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:-1 group-title="Infantil",Cocoricó
+https://jmp2.uk/plu-62d969fd8451a30007f0fd94.m3u8
+#EXTINF:-1 group-title="Anime",Beyblade
+https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
+#EXTINF:-1 group-title="Anime",Death Note
+https://jmp2.uk/plu-625464a945b6a200079257d1.m3u8
+#EXTINF:-1 group-title="Esportes",FIFA+
+https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
+#EXTINF:-1 group-title="Notícias",BM&C News
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 group-title="Notícias",Jovem Pan News
+https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
+#EXTINF:-1 group-title="Notícias",Euronews Português
+https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
+#EXTINF:-1 group-title="Públicos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Públicos",TV Senado
+https://tv.senado.leg.br/hls/tv-senado.m3u8
+#EXTINF:-1 group-title="Públicos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
